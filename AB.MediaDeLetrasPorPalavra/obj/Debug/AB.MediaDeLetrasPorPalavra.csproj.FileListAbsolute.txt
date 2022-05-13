@@ -1,0 +1,10 @@
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\bin\Debug\AB.MediaDeLetrasPorPalavra.exe.config
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\bin\Debug\AB.MediaDeLetrasPorPalavra.exe
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\bin\Debug\AB.MediaDeLetrasPorPalavra.pdb
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.csproj.AssemblyReference.cache
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.frmCalculaMedia.resources
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.Properties.Resources.resources
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.csproj.GenerateResource.cache
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.csproj.CoreCompileInputs.cache
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.exe
+C:\Adriana.Borges\Borges.Projetos\AB.MediaDeLetrasPorPalavra\AB.MediaDeLetrasPorPalavra\obj\Debug\AB.MediaDeLetrasPorPalavra.pdb
