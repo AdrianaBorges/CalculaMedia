@@ -20,30 +20,20 @@ namespace AB.MediaDeLetrasPorPalavra
         {
             var totMedia = 0;
 
-            foreach (var item in lstPalavras)
-            {
-                totMedia += item.TotLetras;
-            }
+            foreach (var item in lstPalavras) { totMedia += item.TotLetras; }
 
             return totMedia / lstPalavras.Count;
-
         }
 
         public static List<Texto> CarregaLista(string texto)
         {
             char[] delimiterChars = { ' ', ',', '.', ':', '\t' };
-
             string[] palavras = texto.Split(delimiterChars);
-
             var lstTexto = new List<Texto>();
 
-            foreach (var item in palavras)
-            {
-                lstTexto.AddRange(new[] { new Texto(item.Length, item) });
-            }
+            foreach (var item in palavras) { lstTexto.AddRange(new[] { new Texto(item.Length, item) }); }
 
             return lstTexto;
-
         }
 
         private void txtCalcular_Click(object sender, EventArgs e)
@@ -55,7 +45,6 @@ namespace AB.MediaDeLetrasPorPalavra
         {
             txtParametro.Text = string.Empty;
             lblResult.Text = string.Empty;
-
         }
 
         #region "Classe responsável pelo Texto"
@@ -70,10 +59,8 @@ namespace AB.MediaDeLetrasPorPalavra
                 TotLetras = totLetras;
                 Palavra = palavra;
             }
-
         }
 
         #endregion
-
     }
 }
